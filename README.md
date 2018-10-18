@@ -1,3 +1,3 @@
 # Boosting
 
-![mnist_image](./wide_mnist.png)
+![mnist_image](./mnist.png)
